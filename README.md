@@ -45,7 +45,8 @@ As a data analyst, I was tasked with building an end-to-end BI solution that wou
 ###Data Model Diagram
 
 The data model integrates multiple fact and dimension tables to support comprehensive business analysis.
-(https://github.com/Thiruvariyamuthu/Business-Insights-360-/blob/main/DataModeling.png)
+![Data Modeling](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/DataModeling.png)
+
 
 ---
 
