@@ -51,6 +51,8 @@ The data model integrates multiple fact and dimension tables to support comprehe
 ## 📑 Report Features
 **📘 Home Page**
 A welcome screen featuring the project title and navigation menu for seamless user experience.
+![Home Page](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/Home%20page.png)
+
 
 ## 📈 Key Dashboards
 
