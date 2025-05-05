@@ -47,8 +47,10 @@ As a data analyst, I was tasked with building an end-to-end BI solution that wou
 The data model integrates multiple fact and dimension tables to support comprehensive business analysis.
 ![Data Modeling](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/DataModeling.png)
 
-
 ---
+## 📑 Report Features
+**📘 Home Page**
+A welcome screen featuring the project title and navigation menu for seamless user experience.
 
 ## 📈 Key Dashboards
 
@@ -57,9 +59,21 @@ Profit & Loss, Net Profit %, Margin Analysis
 ![Finance View](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/Finance%20view.png)
 
 2. **Sales** – Top customers/products, performance vs targets  
+![Sales View](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/Sales%20view.png)
+
+
 3. **Marketing** – Operational expense impact, ROI by division  
-4. **Supply Chain** – Forecast accuracy, regional logistics  
+![Marketing View](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/Marketing%20view.png)
+
+
+4. **Supply Chain** – Forecast accuracy, regional logistics 
+![Supply Chain View](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/Supply%20Chain%20View.png)
+
+ 
 5. **Executive Summary** – High-level overview for CXOs  
+![Executive View](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/Executive%20View.png)
+
+
 
 ---
 
