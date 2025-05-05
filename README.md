@@ -52,7 +52,10 @@ The data model integrates multiple fact and dimension tables to support comprehe
 
 ## 📈 Key Dashboards
 
-1. **Finance** – Profit & Loss, Net Profit %, Margin Analysis  
+1. **Finance** – 
+Profit & Loss, Net Profit %, Margin Analysis  
+![Finance View](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/Finance%20view.png)
+
 2. **Sales** – Top customers/products, performance vs targets  
 3. **Marketing** – Operational expense impact, ROI by division  
 4. **Supply Chain** – Forecast accuracy, regional logistics  
