@@ -42,7 +42,7 @@ As a data analyst, I was tasked with building an end-to-end BI solution that wou
 | Excel  | Market_Share | Regional share by competitors |
 | Excel  | Target | Department sales targets |
 
-###Data Model Diagram
+## Data Model Diagram
 
 The data model integrates multiple fact and dimension tables to support comprehensive business analysis.
 ![Data Modeling](https://raw.githubusercontent.com/Thiruvariyamuthu/Business-Insights-360-/main/DataModeling.png)
